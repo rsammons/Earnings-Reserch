@@ -416,3 +416,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# node
+client/node_modules/
+
+
+# env
+.env
+client/.env
