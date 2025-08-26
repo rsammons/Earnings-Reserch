@@ -1,0 +1,18 @@
+# Ignore build output
+build/
+dist/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Misc
+coverage/
